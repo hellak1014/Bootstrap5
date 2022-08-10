@@ -1,3 +1,5 @@
 # Bootstrap5
 
-day29 >> https://github.com/hellak1014/Bootstrap5
+day29 >> https://www.notion.so/Day29-9a1b5f148dc74ba7ab87f8bcf397453e
+
+day30 >> https://www.notion.so/Day30-ed404c784dab4d20ab9cbdd9958af60f
